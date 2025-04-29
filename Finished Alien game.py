@@ -2,10 +2,10 @@
 # Name:        module1
 # Purpose:
 #
-# Author:      Adnaan
+# Author:      Nadeem
 #
 # Created:     16/02/2024
-# Copyright:   (c) Adnaan 2024
+# Copyright:   (c) Nadeem 2024
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
